@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[yujinkim02]]></title>
         <description><![CDATA[yujinkim02]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yujinkim02/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 00:36:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 00:39:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yujinkim02/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefined50fefce8-3579-4d43-b41f-86101c706ab6/index.html</link>
+            <link>https://thegrid.ai/yujinkim02/50fefce8-3579-4d43-b41f-86101c706ab6/index.html</link>
             <guid isPermaLink="false">50fefce8-3579-4d43-b41f-86101c706ab6</guid>
-            <pubDate>Mon, 11 Apr 2016 00:36:37 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 00:39:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
