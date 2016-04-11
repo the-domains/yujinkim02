@@ -1,0 +1,28 @@
+name: yujinkim02
+favicon: null
+layout_spectrum: 0.6727306640241295
+typography_spectrum: 0.5459330261219293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2841395540162921
+  lightness: 0.08462113584391773
+  saturation: 0.5962162134237587
+  rhythmicContrast: 0.6294440052006394
+purpose: []
