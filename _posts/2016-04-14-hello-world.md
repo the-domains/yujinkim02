@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hello World
-datePublished: '2016-05-07T23:28:58.255Z'
-dateModified: '2016-05-07T23:28:42.733Z'
+datePublished: '2016-05-07T23:29:42.834Z'
+dateModified: '2016-05-07T23:29:33.494Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: hello-world/index.html
 _type: Article
 
