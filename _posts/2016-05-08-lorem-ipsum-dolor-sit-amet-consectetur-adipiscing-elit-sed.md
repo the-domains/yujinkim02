@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Life is funny 1
-datePublished: '2016-05-08T05:02:51.128Z'
-dateModified: '2016-05-08T05:02:37.544Z'
+datePublished: '2016-05-08T05:04:20.968Z'
+dateModified: '2016-05-08T05:02:59.612Z'
 title: ''
 author: []
 authors: []
